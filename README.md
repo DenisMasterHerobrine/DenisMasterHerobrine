@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Denis, also known as DenisMasterHerobrine</h1>
+<h1 align="center">Hello! 👋 I'm Denis, also known as DenisMasterHerobrine</h1>
 <h3 align="center">I'm doing weird stuff usually around Java/Python/C#, sometimes do Minecraft mods or plugins.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
