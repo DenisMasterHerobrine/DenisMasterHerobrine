@@ -1,17 +1,20 @@
+<div align="center"><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner1/ProfileBanner.png" align="center"/></div>
+
+##
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part1.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part2.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part3.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part4.png"/>
+</div>
+
 ## <div align="center">I'm Denis, a part-time freelancer developer doing random stuff since 2015 🪐</div>  
   
-
-- 🔭 I’m currently working as Java Junior Developer at [SHIELD.LAND](https://shield.land)  
+- 🔭 I’m currently working as Java Junior Developer at [SHIELD.LAND](https://shield.land).
   
-
 - 🌱 I’m currently an active Minecraft modder and pack developer. Can do comissioned mods and modpacks.  
   
-
 - ❓ Ask me about nearly anything about space, modding games, integrations and some other stuff related to Java.  
-  
 
 - 🌑I like doing space-related projects from time to time and I wish to step on Mars at least one time in this life.  
-  
 
 - 😄  I usually have some fun with VR, Unreal Engine and sometimes AI.  
   
