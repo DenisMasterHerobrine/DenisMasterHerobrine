@@ -27,8 +27,8 @@ Skills Set is taken from GitHub Profilinator to be able to add stuff easier.
 
 ## <div align="center">My Skill Set</div>
 <table><tr><td valign="top" width="33%">
-
-### Frontend  
+  
+## <div align="center">Frontend</div>
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -41,9 +41,7 @@ Skills Set is taken from GitHub Profilinator to be able to add stuff easier.
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+## <div align="center">Backend</div> 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -63,20 +61,16 @@ Skills Set is taken from GitHub Profilinator to be able to add stuff easier.
 </div>
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+## <div align="center">DevOps</div> 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
-
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## <div align="center">Connect with Me</div>
 <div align="center">
@@ -93,15 +87,13 @@ Skills Set is taken from GitHub Profilinator to be able to add stuff easier.
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"/>
 </a>  
 </div>  
-  
 
-<br/>  
+<br/>
 
+## <div align="center">GitHub Stats</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMasterHerobrine&hide_border=true&layout=compact&theme=merko" align="center" /></div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMasterHerobrine&hide_border=true&layout=compact" align="center" /></div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DenisMasterHerobrine&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DenisMasterHerobrine&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>
 
 
 <br/>
