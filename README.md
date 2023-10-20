@@ -83,7 +83,7 @@ Skills Set is taken from GitHub Profilinator to be able to add stuff easier.
 <a href="https://gitlab.com/DenisMasterHerobrine" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCpdXNyvJv2dP-Ips1G1fNHQ" target="_blank">
+<a href="https://www.youtube.com/channel/UCpdXNyvJv2dP-Ips1G1fNHQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"/>
 </a>  
 </div>  
