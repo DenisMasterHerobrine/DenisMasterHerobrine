@@ -3,7 +3,7 @@
 ##
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part1.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part2.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part3.png"/><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part4.png"/>
+<img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part1.png"/><a href="https://denismasterherobrine.github.io/biography"><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part2.png"/></a><a href="https://denismasterherobrine.github.io/portfolio"><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part3.png"/></a><a href="https://denismasterherobrine.github.io/faq"><img src="https://raw.githubusercontent.com/DenisMasterHerobrine/DenisMasterHerobrine/master/images/banner2/part4.png"/></a>
 </div>
 
 ## <div align="center">I'm Denis, a part-time freelancer developer doing random stuff since 2015 🪐</div>  
