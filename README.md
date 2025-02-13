@@ -24,7 +24,7 @@
 
 🌍 I'm currently practicing in Java and enterprise frameworks to move on from gaming to something serious development. I love learning stuff and solving tasks that I previously wasn't able to solve.
 
-🌑 I like doing space-related projects from time to time and I wish to step on Mars at least one time in this life. Sounds a bit crazy, right? That's why 
+🌑 I like doing space-related projects from time to time and I wish to step on Mars at least one time in this life. Sounds a bit crazy, right?
 
 🐲 Love playing with VR, AI and something related to space.
 
