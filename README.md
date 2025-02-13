@@ -49,7 +49,7 @@ I have worked with basic HTML5, CSS, JS, Bootstrap. Also have a bit of knowledge
 
 ## <div align="center">DevOps</div> 
 <div align="center">  
-  I have worked with GitHub Actions, CI/CD, worken on both Windows Server and UNIX ecosystems and servers to maintain uptime of my projects. Worked previously as system administrator of many Minecraft servers. Basically, did a bunch of tasks related to connecting multiple servers in-between, extending the limits, doing load-balancing and so on.
+  I have worked with GitHub Actions, CI/CD, worked on both Windows Server and UNIX ecosystems and servers to maintain uptime of my projects. Worked previously as system administrator of many Minecraft servers. Basically, did a bunch of tasks related to connecting multiple servers in-between, extending the limits, doing load-balancing and so on.
 </div>
 </td></tr></table>  
 
